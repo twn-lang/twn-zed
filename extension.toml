@@ -1,0 +1,14 @@
+id = "twn"
+name = "TWN Assembly"
+version = "0.0.1"
+schema_version = 1
+authors = ["twil3akine"]
+description = "Support for TWN assembly language"
+
+[grammars.twn]
+# 注意: ここには tree-sitter-twn のGitリポジトリURLを指定する必要があります。
+# ローカルで完結させる場合でも、Zedの仕様上リポジトリURL形式が推奨されます。
+# 動作確認のためには、tree-sitter-twnをGitHubにPushし、そのURLを書くのが確実です。
+# 仮のURLとして記載しますが、ご自身のリポジトリURLに書き換えてください。
+repository = "https://github.com/twn-lang/tree-sitter-twn"
+commit = "d71ca931f8fb081116dc9a7162addb6be835af01"

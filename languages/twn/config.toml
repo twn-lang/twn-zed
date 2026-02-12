@@ -1,0 +1,3 @@
+name = "TWN"
+grammar = "twn"
+path_suffixes = ["twn"]
