@@ -11,4 +11,4 @@ description = "Support for TWN assembly language"
 # 動作確認のためには、tree-sitter-twnをGitHubにPushし、そのURLを書くのが確実です。
 # 仮のURLとして記載しますが、ご自身のリポジトリURLに書き換えてください。
 repository = "https://github.com/twn-lang/tree-sitter-twn"
-commit = "d71ca931f8fb081116dc9a7162addb6be835af01"
+commit = "f245d95343980609a6f5a3f1c2930357dec6d197"
